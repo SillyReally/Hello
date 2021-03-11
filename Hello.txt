@@ -2,6 +2,9 @@ Hello
 
 Getting started
 This is my second commit
+This is the extra line at no.5
 
 This is another branch called "BYE"
 and now i have merged both MAIN and BYE
+
+Now Trying to add an extra line at no.5 in MAIN
