@@ -1,4 +1,4 @@
-Hello
+**Hello**
 
 Getting started
 This is my second commit
@@ -11,4 +11,6 @@ and now i have merged both MAIN and BYE
 Created a new branch called "WHATSUP"
 
 Now Trying to add an extra line at no.5 in MAIN
+
+Added markdown as per the issue#4  raised
 
