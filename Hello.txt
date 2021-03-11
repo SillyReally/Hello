@@ -4,3 +4,4 @@ Getting started
 This is my second commit
 
 This is another branch called "BYE"
+and now i have merged both MAIN and BYE
