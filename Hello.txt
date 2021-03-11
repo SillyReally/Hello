@@ -14,3 +14,5 @@ Now Trying to add an extra line at no.5 in MAIN
 
 Added markdown as per the issue#4  raised
 
+Closing the issue #4 by adding the keyword fixes while commiting this change
+
